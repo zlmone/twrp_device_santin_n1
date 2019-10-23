@@ -34,5 +34,3 @@ PRODUCT_DEFAULT_PROPERTY_OVERRIDES += \
     ro.secure=0 \
     ro.adb.secure=0 \
     ro.allow.mock.location=0 \
-    ro.hardware.keystore=mt6757 \
-#
