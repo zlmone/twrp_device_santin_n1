@@ -1,0 +1,6 @@
+ro.product.brand=santin
+ro.product.name=n1
+ro.product.device=n1
+ro.product.mod_device=n1
+ro.build.product=N1
+ro.treble.enabled=true
