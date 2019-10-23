@@ -25,7 +25,7 @@
 # *not* include it on all devices, so it is safe even with hardware-specific
 # components.
 
-LOCAL_PATH := device/xiaomi/lavender
+LOCAL_PATH := device/santin/n1
 
 # Architecture
 TARGET_ARCH := arm64
