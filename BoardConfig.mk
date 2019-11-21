@@ -119,7 +119,10 @@ TW_INCLUDE_FUSE_EXFAT := true
 TW_INCLUDE_FUSE_NTFS := true
 
 # System-as-root
-BOARD_BUILD_SYSTEM_ROOT_IMAGE := false
+BOARD_BUILD_SYSTEM_ROOT_IMAGE := true
+
+#Data Encryption
+TW_INCLUDE_CRYPTO := true
 
 # Android Verified Boot
 BOARD_AVB_ENABLE := false
